@@ -25,7 +25,7 @@ Ensure you have Python installed (version 3.7+ recommended). You will also need 
 - `matplotlib`
 
 Install them using the following command:
-```bash
+```
 pip install pillow numpy matplotlib
 
 
@@ -33,11 +33,9 @@ pip install pillow numpy matplotlib
 
 Follow these steps to run the maze solver:
 
-### Clone the Repository
+### Clone the Repository, Open your terminal and clone the repository using:
 
-Open your terminal and clone the repository using:
-```bash
-git clone https://github.com/your-username/maze_solver.git
+git clone https://https://github.com/alam121/Maze_Challenge.git
 cd maze_solver
 ```
 Place your maze image in the project folder.
@@ -50,7 +48,7 @@ Ensure the image follows these requirements:
 Execute the script by running:
 
 ```bash
-python maze_solver.py
+python Maze_Challenge.py
 ```
 ## View the Result
 The script will process the maze and display the following:
