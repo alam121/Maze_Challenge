@@ -4,6 +4,9 @@ This project provides a Python-based solution for solving mazes using **Breadth-
 
 ---
 
+## Output Image
+![Alt text](https://github.com/alam121/Maze_Challenge/blob/main/output.png)
+
 ## Features
 
 - Identifies the **start** and **end** points of the maze.
