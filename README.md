@@ -35,7 +35,7 @@ Follow these steps to run the maze solver:
 
 ### Clone the Repository, Open your terminal and clone the repository using:
 
-git clone https://https://github.com/alam121/Maze_Challenge.git
+git clone https://github.com/alam121/Maze_Challenge.git
 cd maze_solver
 ```
 Place your maze image in the project folder.
